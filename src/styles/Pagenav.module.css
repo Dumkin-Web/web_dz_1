@@ -1,0 +1,35 @@
+.pagenav{
+    position: fixed;
+    top: 200px;
+    right: 50px;
+    background-color: #303030;
+    /* height: 100px; */
+    width: 210px;
+    padding: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.href{
+    color: #c6c6c6;
+    font-weight: 400;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.href:hover{
+    color: white;
+}
+
+.p{
+    color: #c6c6c6;
+    font-weight: 400;
+    text-decoration: none;
+    margin-top: 15px;
+    user-select: none;
+}
+
+.p:hover{
+    cursor: pointer;
+    color: white;
+}
